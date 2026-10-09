@@ -36,5 +36,5 @@ Za potrebe naprednih analiza, razvoja i investicija, dostupne su kompletne i sor
 ## 📬 Pristup kompletnim bazama podataka
 Ukoliko se bavite razvojem, istraživanjem tržišta ili investiranjem i potreban vam je kompletan sirovi skup podataka u `.txt` ili `.csv` formatu, možete poslati upit na email: **info@clevermuslim.com**.
 
-* Vlasnik repozitorija može napraviti i slične e obrade podataka u Pythonu po dogovoru s klijentom.
+* Vlasnik repozitorija može napraviti i slične obrade podataka u Pythonu po dogovoru s klijentom.
 * Napomena: Ukoliko smatrate da vaša domena ne treba biti u uzorku, možete me kontaktirati na isti email.
